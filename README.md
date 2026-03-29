@@ -1,0 +1,1 @@
+# weather-details-provider-assistant
